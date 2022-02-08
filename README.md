@@ -15,6 +15,7 @@
 # Imagens
 
 ```html
+<img />
 ```
 
 <!-- TABLE OF CONTENTS -->
