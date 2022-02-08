@@ -12,7 +12,7 @@
   - ***title*** — Coloca uma legenda externa na imagem.
 
 <!-- TITLE -->
-# 
+# Imagens
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
