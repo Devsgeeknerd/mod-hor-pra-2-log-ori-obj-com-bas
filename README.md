@@ -11,7 +11,7 @@
   * **width**
     * Altera a largura da imagem.
   * **height**
-  * Altera a altura da imagem.
+    * Altera a altura da imagem.
   * **alt**
   * Coloca uma legenda interna antes que a imagem carregue.
   * **title**
