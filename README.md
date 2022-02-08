@@ -13,7 +13,7 @@
   * **height**
     * Altera a altura da imagem.
   * **alt**
-  * Coloca uma legenda interna antes que a imagem carregue.
+    * Coloca uma legenda interna antes que a imagem carregue.
   * **title**
   * Coloca uma legenda externa na imagem.
 
