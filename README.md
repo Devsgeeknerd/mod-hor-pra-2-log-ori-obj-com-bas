@@ -1,4 +1,3 @@
-# Imagens
 
 ```html
     <img />
