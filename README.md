@@ -15,7 +15,7 @@
   * **alt**
     * Coloca uma legenda interna antes que a imagem carregue.
   * **title**
-  * Coloca uma legenda externa na imagem.
+    * Coloca uma legenda externa na imagem.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
