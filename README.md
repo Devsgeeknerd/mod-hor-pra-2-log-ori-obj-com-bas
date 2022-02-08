@@ -15,6 +15,7 @@
 
 * ***Atributos***
   * **src**
+  * **width**
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
