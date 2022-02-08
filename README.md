@@ -18,6 +18,7 @@
   * **width**
   * **height**
   * **alt**
+  * **title**
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
