@@ -19,6 +19,7 @@
   * **width**
   * Altera a largura da imagem.
   * **height**
+  * Altera a altura da imagem.
   * **alt**
   * **title**
 
