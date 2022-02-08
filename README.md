@@ -71,10 +71,10 @@
 &nbsp;
 ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/img?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/img?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/img?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/img?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/img?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
