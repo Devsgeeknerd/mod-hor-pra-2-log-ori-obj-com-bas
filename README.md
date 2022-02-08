@@ -1,8 +1,4 @@
 
-```html
-    <img />
-```
-
 - Atributos:
   - ***src*** — Busca a imagem na pasta que esta o index, na pasta local ou na Web.
   - ***width*** — Altera a largura da imagem.
