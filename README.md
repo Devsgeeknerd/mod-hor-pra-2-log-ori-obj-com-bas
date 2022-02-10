@@ -2,7 +2,7 @@
 # Imagens
 
 ```html
-<img />
+<img src="" width="" height="" alt="" title=""/>
 ```
 
 * ***Atributos***
