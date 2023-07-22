@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Exercício 1.](https://github.com/Devsgeeknerd/cla-exe-1-hor-pra-2-log-ori-obj-com-bas) &#128679;
+* [x] [Exercício 1.](https://github.com/Devsgeeknerd/cla-exe-1-hor-pra-2-log-ori-obj-com-bas)
 * [ ] [Exercício 2.](https://github.com/Devsgeeknerd/cla-exe-2-hor-pra-2-log-ori-obj-com-bas) &#128679;
 
 A prática leva a perfeição.
